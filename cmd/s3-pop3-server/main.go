@@ -5,7 +5,7 @@ import (
 	"io"
 	"log"
 
-	"pop3"
+	"github.com/dzeromsk/pop3"
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
